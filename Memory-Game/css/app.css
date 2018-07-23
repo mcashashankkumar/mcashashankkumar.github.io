@@ -30,10 +30,11 @@ body {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Monoton';
+    font-size: 22px;
     font-weight: 300;
     font-size: 400%;
-    color: #99eea7;
+    color: #c51a1a;
 }
 
 
@@ -47,7 +48,7 @@ h1 {
     background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
     padding: 32px;
     border-radius: 10px;
-    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+    box-shadow: 12px 15px 20px 0 rgba(34, 175, 53, 0.5);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

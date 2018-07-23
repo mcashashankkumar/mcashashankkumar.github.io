@@ -9,9 +9,3 @@ This is a complete browser-based card matching game.
 * If the cards match, both cards stay flipped over.
 * If the cards do not match, both cards are flipped face down.
 * The game ends once all cards have been correctly matched.
-
-
-## How to Run: 
-
-1. [Download](https://github.com//Memory-Game/archive/master.zip) or [Clone](https://github.com//Memory-Game.git) the Repository.
-2. Open `index.html` file to view the project in your browser.
