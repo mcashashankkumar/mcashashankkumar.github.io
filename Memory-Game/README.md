@@ -8,4 +8,8 @@ This is a complete browser-based card matching game.
 * The player then turns over a second card, trying to find the corresponding card with the same symbol.
 * If the cards match, both cards stay flipped over.
 * If the cards do not match, both cards are flipped face down.
+<<<<<<< HEAD
 * The game ends once all cards have been correctly matched.
+=======
+* The game ends once all cards have been correctly matched.
+>>>>>>> a2411f1ccacedc3f83a90ba00ea8caf09879e5c6
