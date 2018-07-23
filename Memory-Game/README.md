@@ -12,4 +12,4 @@ This is a complete browser-based card matching game.
 * The game ends once all cards have been correctly matched.
 =======
 * The game ends once all cards have been correctly matched.
->>>>>>> a2411f1ccacedc3f83a90ba00ea8caf09879e5c6
+PROJECT LINK : https://mcashashankkumar.github.io/Memory-Game/
