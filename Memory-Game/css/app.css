@@ -30,10 +30,11 @@ body {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Monoton';
+    font-size: 22px;
     font-weight: 300;
     font-size: 400%;
-    color: #99eea7;
+    color: #ee9999;
 }
 
 
